@@ -1,0 +1,1 @@
+<h1>Logo de agradecimientos</h1>
